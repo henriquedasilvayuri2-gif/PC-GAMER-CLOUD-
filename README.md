@@ -7,7 +7,7 @@ Preparar um computador Windows para transmitir jogos ao celular.
 
 ## 💻 Hardware desejado
 - RAM: 16 GB
-- GPU: NVIDIA RTX 3060
+- GPU: ?
 - SSD: 250 GB
 - CPU: 8 vCPU
 - Sistema: Windows 11
