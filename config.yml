@@ -1,0 +1,22 @@
+project:
+  name: "PC Gamer Cloud"
+  client: "Moonlight Android"
+  server: "Sunshine"
+  budget: 0
+
+target_hardware:
+  operating_system: "Windows 11"
+  ram_gb: 16
+  storage_ssd_gb: 250
+  gpu: "NVIDIA RTX 3060"
+  cpu: "8 vCPU"
+
+connection:
+  streaming: "Moonlight"
+  host: "Sunshine"
+  private_network: "Tailscale"
+
+notes:
+  - "Hardware desejado, não garantido."
+  - "GitHub Actions não fornece uma RTX 3060."
+  - "É necessário um servidor Windows compatível."
