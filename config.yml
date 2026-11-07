@@ -8,7 +8,7 @@ target_hardware:
   operating_system: "Windows 11"
   ram_gb: 16
   storage_ssd_gb: 250
-  gpu: "NVIDIA RTX 3060"
+  gpu: "GPU disponível no servidor; sem exigir RTX"
   cpu: "8 vCPU"
 
 connection:
